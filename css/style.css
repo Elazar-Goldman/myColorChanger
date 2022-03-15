@@ -1,0 +1,7 @@
+body {
+  background-color: brown;
+}
+div#root {
+  background-color: blueviolet;
+  color: chartreuse;
+}
